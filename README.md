@@ -1,4 +1,4 @@
-# NoTR
+# NoteBook
 
 [Deployed here](https://notr-6524b.web.app/notes)
 
